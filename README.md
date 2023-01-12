@@ -2,7 +2,7 @@
 Данные .env для сервера
 ```
 PORT=5000
-DB_URL= 'url mongodb или какой либо другой'
+DB_URL= //url mongodb
 JWT_ACCESS_SECRET=test_test //любая нужная строка
 JWT_REFRESH_SECRET=test_test //любая нужная строка
 SMTP_HOST=smtp.mail.ru // тут отправляю через mail.ru можно через любой например gmail.com
